@@ -17,8 +17,6 @@ This project is a powerful demonstration of **parallel processing** and **multi-
 The **Disk Crawler Application** efficiently searches and indexes files using parallel processing techniques:
 - **Thread Management**: Utilizes Java’s **ExecutorService** and **Thread Pools** to maximize CPU utilization and manage multiple tasks simultaneously.
 - **Producer-Consumer Model**: Designed to handle large datasets efficiently, using a **LinkedBlockingQueue** to manage task queues and synchronize threading activities.
-- **Graphical User Interface (GUI)**: Developed an intuitive GUI to display the crawling progress and results in real-time.
-- **Mandelbrot Set Visualization**: Explored the Mandelbrot set, integrating it into the application’s GUI to showcase the visualization of this complex set using **Thread Pools** for high-performance rendering.
 
 ---
 
